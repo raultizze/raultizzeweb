@@ -1,5 +1,12 @@
-A collection of great modern sounding guitar tones made in Ableton Live.
---
+---
+layout: page
+title: About
+permalink: /about
+---
+
+
+
+## A collection of great modern sounding guitar tones made in Ableton Live.
 
 
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
