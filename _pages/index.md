@@ -6,7 +6,8 @@ permalink: /
 ---
 <style> body { display: flex; justify-content: center; align-items: center; height: 100vh; } </style>
 
-[[Guitar Tones]]  [[About]] 
+ [[Guitar Tones]]  [[About]]   [[Contact]]
+ 
 
 
 
