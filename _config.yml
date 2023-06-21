@@ -45,6 +45,7 @@ defaults:
         height: 100vh;
         margin: 0;
         padding: 0;
+	background-color: black; /* Cambio de color de fondo */
       }
       .container {
         text-align: center;
