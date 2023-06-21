@@ -1,34 +1,20 @@
 ---
-title:               Raul Tizze
-include:             ['_pages']
-exclude:             ['_includes/notes_graph.json']
-# You may need to change the base URL depending on your deploy configuration.
-# Specifically, when using GitHub Pages, the baseurl should point to where GitHub
-# Pages deploys your repository (which is usually the repository name).
-baseurl:             ''
-
-# If you are using a host that cannot resolve URLs that do
-# not end with .html (such as Neocities), set this to 'true'.
-use_html_extension:  false
-
-# Set to `true` to open non-internal links in new tabs, or
-# set to `false` to open non-internal links in current tab.
+title: Raul Tizze
+include: ['_pages']
+exclude: ['_includes/notes_graph.json']
+baseurl: ''
+use_html_extension: false
 open_external_links_in_new_tab: true
-
-# Set to `true` to replace tweet URLs with Twitter embeds.
-# Note that doing so will negatively affect the reader's privacy
-# as their browser will communicate with Twitter's servers.
 embed_tweets: false
-
-permalink:           pretty
+permalink: pretty
 relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
 
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 collections:
   notes:
@@ -45,6 +31,7 @@ defaults:
     values:
       layout: "note"
 ---
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -61,10 +48,14 @@ defaults:
         text-align: center;
         /* Estilos adicionales para el contenedor principal si lo deseas */
       }
+      .title {
+        text-align: center;
+      }
     </style>
   </head>
   <body>
     <div class="container">
+      <h1 class="title">{{ page.title }}</h1>
       {% include header.html %}
       {{ content }}
       {% include footer.html %}
