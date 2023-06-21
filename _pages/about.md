@@ -5,7 +5,7 @@ id: about
 permalink: /About
 ---
 
-
+<style> body { display: flex; justify-content: center; align-items: center; height: 100vh; } </style>
 
 <img src="/assets/300300.jpg"/>
 

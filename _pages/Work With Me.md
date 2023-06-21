@@ -1,0 +1,7 @@
+---
+layout: page
+title: Work With Me
+id: Work With Me
+permalink: /Work With Me
+---
+<style> body { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; padding: 0; background-color: black; } .container { text-align: center; } h1, .container, body { color: white; /* Cambio de color de las letras a blanco */ } </style>
