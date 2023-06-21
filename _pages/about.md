@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /About
 ---
-<picture>  
-  <img src="300300" alt="Flowers" style="width:auto;">  
-</picture>
+<img src="pic_trulli.jpg" alt="Italian Trulli">  
+
+<img src="/assets/300300.jpg"/>
 
 
  Raul Tizze is a composer and music producer with three solo albums. emotional charge, and eclectic style. He works with interdisciplinary projects related to films, video games, and art installations.
