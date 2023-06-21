@@ -6,7 +6,7 @@ permalink: /
 ---
 
 
-[[Guitar Tones]] [[about]]
+[[Guitar Tones]] [[About]]
 
 
 
