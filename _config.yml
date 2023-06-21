@@ -58,6 +58,7 @@ defaults:
         height: 100vh;
       }
       .container {
+        text-align: center;
         /* Estilos adicionales para el contenedor principal si lo deseas */
       }
     </style>
