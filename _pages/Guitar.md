@@ -9,6 +9,5 @@ permalink: /Guitar
 ## A collection of great modern sounding guitar tones made in Ableton Live.
 
 
-<style> .gumroad-product-embed-container { flex: 1; max-width: 400px; height: 400px; } </style> <div style="display: flex;"> <div class="gumroad-product-embed-container"> <div class="gumroad-product-embed"> <a href="https://raultizze.gumroad.com/l/armul">Loading...</a> </div> </div>
+<style> .gumroad-product-embed-container { flex: 1; max-width: 500px; height: 500px; } </style> <div style="display: flex;"> <div class="gumroad-product-embed-container"> <div class="gumroad-product-embed"> <a href="https://raultizze.gumroad.com/l/armul">Loading...</a> </div> </div>
 
-<!-- Siguiente elemento --> <div>  .gumroad-product-embed-container { flex: 1; max-width: 400px; height: 400px; } </style> <div style="display: flex;"> <div class="gumroad-product-embed-container"> <div class="gumroad-product-embed"> <a href="https://raultizze.gumroad.com/l/armul">Loading...</a> </div> </div>
