@@ -14,15 +14,20 @@
 </head>
 <body>
 <p class="p1"><span class="s1">--- layout: default ---</span></p>
-<p class="p1"><span class="s1">{{ page.title | remove: '&lt;mark&gt;' | remove: '&lt;/mark&gt;' }}</span></p>
-<p class="p1"><span class="s1">{% if page.type != 'pages' %} Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }} {% endif %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">&lt;style&gt;</span></p>
 <p class="p1"><span class="s1">body {</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>display: flex;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>justify-content: center;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>flex-direction: column;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>align-items: center;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>height: 100vh;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>justify-content: flex-start;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>min-height: 100vh;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>margin: 0;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>padding: 0;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">header {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>margin-top: 20px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>text-align: center;</span></p>
 <p class="p1"><span class="s1">}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">a {</span></p>
@@ -30,6 +35,11 @@
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>color: #000; /* Cambia #000 por el color deseado para los enlaces */</span></p>
 <p class="p1"><span class="s1">}</span></p>
 <p class="p1"><span class="s1">&lt;/style&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">&lt;header&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{ page.title | remove: '&lt;mark&gt;' | remove: '&lt;/mark&gt;' }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{% if page.type != 'pages' %} Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }} {% endif %}</span></p>
+<p class="p1"><span class="s1">&lt;/header&gt;</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">{{ content }}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
