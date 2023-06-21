@@ -14,8 +14,8 @@
 </head>
 <body>
 <p class="p1"><span class="s1">--- layout: default ---</span></p>
-<p class="p1"><span class="s1">{{ page.title }}</span></p>
-<p class="p1"><span class="s1">{% if page.type != 'pages' %} Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }} {% endif %}</span></p>
+<p class="p1"><span class="s1">{{ page.title | remove: '&lt;mark&gt;' | remove: '&lt;/mark&gt;' }}</span></p>
+<p class="p1"><span class="s1">{% if page.type != 'pages' %} Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }} {% endif %}<span class="Apple-converted-space"> </span></span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">&lt;style&gt;</span></p>
 <p class="p1"><span class="s1">body {</span></p>
@@ -24,17 +24,25 @@
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>align-items: center;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>height: 100vh;</span></p>
 <p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">a {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>text-decoration: none;</span></p>
+<p class="p1"><span class="s1">}</span></p>
 <p class="p1"><span class="s1">&lt;/style&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">{{ content }}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">This line appears after every note.</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">Notes mentioning this note</span></p>
 <p class="p1"><span class="s1">{% if page.backlinks.size &gt; 0 %} {% for backlink in page.backlinks %}</span></p>
-<p class="p1"><span class="s1">{{ backlink.title }}</span></p>
+<p class="p1"><span class="s1">{{ backlink.title | remove: '&lt;mark&gt;' | remove: '&lt;/mark&gt;' }}</span></p>
 <p class="p1"><span class="s1">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</span></p>
 <p class="p1"><span class="s1">{% endfor %} {% else %}</span></p>
-<p class="p1"><span class="s1">There are no notes linking to this note.</span></p>
-<p class="p1"><span class="s1">{% endif %}</span></p>
+<p class="p1"><span class="s1">There are no notes linking to this note.<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">Here are all the notes in this garden, along with their links, visualized as a graph.</span></p>
+<p class="p1"><span class="s1">{% include notes_graph.html %}</span></p>
 </body>
 </html>
