@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Guitar Tone
 id: Guitar Tone
 permalink: /Guitar Tones
 ---
