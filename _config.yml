@@ -1,3 +1,4 @@
+---
 title:               Raul Tizze
 include:             ['_pages']
 exclude:             ['_includes/notes_graph.json']
@@ -15,7 +16,7 @@ use_html_extension:  false
 open_external_links_in_new_tab: true
 
 # Set to `true` to replace tweet URLs with Twitter embeds.
-# Note that doing so will negatively the reader's privacy
+# Note that doing so will negatively affect the reader's privacy
 # as their browser will communicate with Twitter's servers.
 embed_tweets: false
 
@@ -43,3 +44,29 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      .container {
+        /* Estilos adicionales para el contenedor principal si lo deseas */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
