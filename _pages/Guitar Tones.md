@@ -4,7 +4,7 @@ title: Guitar Tone
 id: Guitar Tone
 permalink: /Guitar Tones
 ---
-
+<style> body { display: flex; justify-content: center; align-items: center; height: 100vh; } </style>
 ## A collection of great modern sounding guitar tones made in Ableton Live.
 
 
