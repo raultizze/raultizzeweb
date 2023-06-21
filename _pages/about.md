@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /About
 ---
-![[300 300.png]]
+<picture>300 300.png</picture>
+
 
  Raul Tizze is a composer and music producer with three solo albums. emotional charge, and eclectic style. He works with interdisciplinary projects related to films, video games, and art installations.
 
