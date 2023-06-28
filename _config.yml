@@ -1,6 +1,9 @@
-title: 〜  
-include: ['_pages']
-exclude: ['_includes/notes_graph.json']
+---
+title: "〜"
+include:
+  - '_pages'
+exclude:
+  - '_includes/notes_graph.json'
 baseurl: ''
 use_html_extension: false
 open_external_links_in_new_tab: true
@@ -59,8 +62,8 @@ defaults:
   </head>
   <body class="black-bg">
     <div class="container">
-      <h1>{{ page.title }}</h1>
       {% include header.html %}
+      <h1>{{ page.title }}</h1>
       {{ content }}
       {% include footer.html %}
     </div>
