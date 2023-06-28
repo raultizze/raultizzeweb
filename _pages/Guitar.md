@@ -9,8 +9,8 @@ permalink: /Guitar
 ## A collection of great modern sounding guitar tones made in Ableton Live.
 
 
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://raultizze.gumroad.com/l/mesaboogie">Loading...</a></div>
+<script src="https://gumroad.com/js/gumroad-embed.js"></script> <div class="gumroad-product-embed" style="display: inline-block;"><a href="https://raultizze.gumroad.com/l/mesaboogie">Loading...</a></div
 
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://raultizze.gumroad.com/l/mesaboogie">Loading...</a></div>
+<script src="https://gumroad.com/js/gumroad-embed.js"></script> <div class="gumroad-product-embed" style="display: inline-block;"><a href="https://raultizze.gumroad.com/l/tonesculptor">Loading...</a></div
+
+

@@ -9,7 +9,7 @@ permalink: /
 ## Raul Tizze
 
 
- [[Guitar]]  [[About]]   [[Contact]]   [[Work With Me]]  [[Projects]]  [[Research]]
+   [[Guitar]]  [[Projects]]  [[Work With Me]]  [[About]]  [[Research]]  [[Contact]] 
  
  
  
