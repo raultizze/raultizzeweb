@@ -4,8 +4,7 @@ $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
-$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
 body {
   box-sizing: content-box;
@@ -81,10 +80,12 @@ a {
   text-decoration: none;
   border-bottom: 1px solid $color-border;
   color: $color-primary;
+
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    color: $color-primary;
+    background: none;
   }
+
   &:after {
     position: relative;
     top: -0.5em;
@@ -92,6 +93,7 @@ a {
     content: "↗";
     color: #aaaaaa;
   }
+
   &.internal-link:after,
   &.footnote:after,
   &.reversefootnote:after {
@@ -111,9 +113,7 @@ nav {
 #notes-entry-container {
   display: grid;
   grid-gap: 2em;
-  grid-template-areas:
-    "content"
-    "side";
+  grid-template-areas: "content";
 
   @media (min-width: 700px) {
     grid-template-columns: 3fr 1fr;
