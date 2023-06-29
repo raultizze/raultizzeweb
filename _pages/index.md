@@ -15,46 +15,30 @@ permalink: /
     margin: 0;
     padding: 0;
     background-color: black;
-  }
-
-  .container {
+    color: white;
     text-align: center;
   }
 
-  h1, .container, body {
-    color: white;
-  }
-
-  .links {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-  }
-
-  .links a {
+  a {
     color: white;
     text-decoration: none;
-    display: inline-block;
-    padding: 5px 10px;
-    transition: transform 0.2s;
+    margin: 0 10px;
+    font-size: 18px;
   }
 
-  .links a:hover {
-    transform: scale(1.1);
+  a:hover {
+    font-weight: bold;
   }
 </style>
 
-<div class="container">
-  <h1>Aquí van tus enlaces:</h1>
-  <div class="links">
-    <a href="#">[[Guitar]]</a>
-    <a href="#">[[Projects]]</a>
-    <a href="#">[[Work With Me]]</a>
-    <a href="#">[[About]]</a>
-    <a href="#">[[Research]]</a>
-    <a href="#">[[Contact]]</a>
-  </div>
-</div>
+<h1>Aquí van tus enlaces:</h1>
+
+<a href="#">[Guitar]</a>
+<a href="#">[Projects]</a>
+<a href="#">[Work With Me]</a>
+<a href="#">[About]</a>
+<a href="#">[Research]</a>
+<a href="#">[Contact]</a>
 
  
  
