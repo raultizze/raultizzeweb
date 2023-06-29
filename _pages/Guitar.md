@@ -18,8 +18,8 @@ permalink: /Guitar
   }
 
   .gumroad-button {
-    font-size: 12px;
-    padding: 5px 10px;
+    font-size: 16px;
+    padding: 8px 16px;
   }
 </style>
 
@@ -29,50 +29,50 @@ permalink: /Guitar
 
 <div class="button-container">
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/mesaboogie">Buy MES4 DSP Ableton Rack</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/mesaboogie">Get MES4 DSP Ableton Rack</a>
   </p>
 
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tonesculptor">Buy Tone Sculptor Tool Kit</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tonesculptor">Get Tone Sculptor Tool Kit</a>
   </p>
 
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Longrack">Buy Longsword Distortion Rack</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Longrack">Get Longsword Distortion Rack</a>
   </p>
 
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/etwdv">Buy Tim Henson Vocoder Ableton Rack</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/etwdv">Get Tim Henson Vocoder Ableton Rack</a>
   </p>
   
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/dlkhc">Buy Ableton Audio Rack: Tim Henson Single Coil Clean</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/dlkhc">Get Ableton Audio Rack: Tim Henson Single Coil Clean</a>
   </p>
 
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/hobts">Buy CHILL Music Pack "Moods"</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/hobts">Get CHILL Music Pack "Moods"</a>
   </p>
 
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/htpka">Buy Clean Tone Design Video Project</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/htpka">Get Clean Tone Design Video Project</a>
   </p>
 
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/FriedmanTone">Buy Friedman Tone Kit Ableton Rack</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/FriedmanTone">Get Friedman Tone Kit Ableton Rack</a>
   </p>
 
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/IRCAB">Buy IR Vibrato Champlifier</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/IRCAB">Get IR Vibrato Champlifier</a>
   </p>
   
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/wkxvg">Buy Matteo Mancuso Lick #1</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/wkxvg">Get Matteo Mancuso Lick #1</a>
   </p>
 
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tappinglick">Buy Matteo Mancuso Lick #2</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tappinglick">Get Matteo Mancuso Lick #2</a>
   </p>
 
   <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/xwjtg">Buy Prog Rack - Acoustic Amp</a>
+    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/xwjtg">Get Prog Rack - Acoustic Amp</a>
   </p>
 </div>
