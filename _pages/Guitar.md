@@ -38,7 +38,20 @@ permalink: /Guitar
 <h1 align="center">A collection of great modern sounding guitar tones made custom in Ableton Live</h1>
 
 <div class="button-container">
+  <div>
+    <p class="price">$0+</p>
+    <p>
+      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/xwjtg">Get Prog Rack - Acoustic Amp</a>
+    </p>
+  </div>
   
+  <div>
+    <p class="price">$8</p>
+    <p>
+      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/armul">Get Prog Rack - Guitar Tone for Ableton Live (Full)</a>
+    </p>
+  </div>
+
   <div>
     <p class="price">$1+</p>
     <p>
