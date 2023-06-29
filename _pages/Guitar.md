@@ -35,6 +35,8 @@ permalink: /Guitar
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tappinglick">Buy Matteo Mancuso Lick #2</a>
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/hobts
+<a class="gumroad-button" href="https://raultizze.gumroad.com/l/hobts">Buy CHILL Music Pack "Moods"</a>
+``
+
 
 
