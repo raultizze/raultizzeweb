@@ -47,6 +47,8 @@ defaults:
         height: 100vh;
         margin: 0;
         padding: 0;
+        background-color: black;
+        color: white;
       }
       .container {
         text-align: center;
