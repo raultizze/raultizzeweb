@@ -4,8 +4,6 @@ title: Home
 id: home
 permalink: /
 ---
-<style> body { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; padding: 0; background-color: black; } .container { text-align: center; } h1, .container, body { color: white; /* Cambio de color de las letras a blanco */ } </style>
-
 
 <style>
   body {
@@ -35,6 +33,13 @@ permalink: /
   .links a {
     color: white;
     text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+    transition: transform 0.2s;
+  }
+
+  .links a:hover {
+    transform: scale(1.1);
   }
 </style>
 
