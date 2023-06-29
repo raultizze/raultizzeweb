@@ -5,7 +5,6 @@ id: home
 permalink: /
 ---
 <style> body { display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; padding: 0; background-color: black; } .container { text-align: center; } h1, .container, body { color: white; /* Cambio de color de las letras a blanco */ } </style>
-
 <style>
   body {
     display: flex;
@@ -24,6 +23,7 @@ permalink: /
     text-decoration: none;
     margin: 0 10px;
     font-size: 18px;
+    cursor: pointer;
   }
 
   a:hover {
@@ -34,10 +34,10 @@ permalink: /
 <h1>Aquí van tus enlaces:</h1>
 
 <div>
-  <a href="#">[[Guitar]]</a>
-  <a href="#">[[Projects]]</a>
-  <a href="#">[[Work With Me]]</a>
-  <a href="#">[[About]]</a>
-  <a href="#">[[Research]]</a>
-  <a href="#">[[Contact]]</a>
+  <span>[[</span><a onclick="return false;">Guitar</a><span>]]</span>
+  <span>[[</span><a onclick="return false;">Projects</a><span>]]</span>
+  <span>[[</span><a onclick="return false;">Work With Me</a><span>]]</span>
+  <span>[[</span><a onclick="return false;">About</a><span>]]</span>
+  <span>[[</span><a onclick="return false;">Research</a><span>]]</span>
+  <span>[[</span><a onclick="return false;">Contact</a><span>]]</span>
 </div>
