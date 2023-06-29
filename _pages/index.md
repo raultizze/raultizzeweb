@@ -9,7 +9,7 @@ permalink: /
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    heiht: 100vh;
     margin: 0;
     padding: 0;
     background-color: black;
@@ -32,7 +32,6 @@ permalink: /
 </style>
 
 <div class="container">
-  <h1>Aquí van tus enlaces:</h1>
   <p>
     [[Guitar]]  [[Projects]]  [[Work With Me]]  [[About]]  [[Research]]  [[Contact]]
   </p>
