@@ -9,33 +9,68 @@ permalink: /Guitar
 ## A collection of great modern sounding guitar tones made in Ableton Live
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/mesaboogie">Buy MES4 DSP Ableton Rack</a>
+<p align="center">
+  <a class="gumroad-button" href="https://raultizze.gumroad.com/l/mesaboogie" style="font-size: 75%;">Buy MES4 DSP Ableton Rack</a>
+</p>
+<br>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/tonesculptor">Buy Tone Sculptor Tool Kit</a>
+<p align="center">
+  <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tonesculptor" style="font-size: 75%;">Buy Tone Sculptor Tool Kit</a>
+</p>
+<br>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/Longrack">Buy Longsword Distortion Rack</a>
+<p align="center">
+  <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Longrack" style="font-size: 75%;">Buy Longsword Distortion Rack</a>
+</p>
+<br>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/etwdv">Buy Tim Henson Vocoder Ableton Rack</a>
+<p align="center">
+  <a class="gumroad-button" href="https://raultizze.gumroad.com/l/etwdv" style="font-size: 75%;">Buy Tim Henson Vocoder Ableton Rack</a>
+</p>
+<br>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/htpka">Buy Clean Tone Design Video Project</a>
+<p align="center">
+  <a class="gumroad-button" href="https://raultizze.gumroad.com/l/htpka" style="font-size: 75%;">Buy Clean Tone Design Video Project</a>
+</p>
+<br>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/IRCAB">Buy IR Vibrato Champlifier</a>
+<p align="center">
+  <a class="gumroad-button" href="https://raultizze.gumroad.com/l/IRCAB" style="font-size: 75%;">Buy IR Vibrato Champlifier</a>
+</p>
+<br>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/FriedmanTone">Buy Friedman Tone Kit Ableton Rack</a>
+<p align="center">
+  <a class="gumroad-button" href="https://raultizze.gumroad.com/l/FriedmanTone" style="font-size: 75%;">Buy Friedman Tone Kit Ableton Rack</a>
+</p>
+<br>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/gbsry">Buy Sci-Fi Music Game Pack</a>
+<p align="center">
+  <a class="gumroad-button" href="https://raultizze.gumroad.com/l/gbsry" style="font-size: 75%;">Buy Sci-Fi Music Game Pack</a>
+</p>
+<br>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/musicgamelibrary">Buy Trilogy Game Library</a>
+<p align="center">
+  <a class="gumroad-button" href="https://raultizze.gumroad.com/l/musicgamelibrary" style="font-size: 75%;">Buy Trilogy Game Library</a>
+</p>
+<br>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/xwjtg">Buy Prog Rack - Acoustic Amp</a>
+<p align="center">
+  <a class="gumroad-button" href="https://raultizze.gumroad.com/l/xwjtg" style="font-size: 75%;">Buy Prog Rack - Acoustic Amp</a>
+</p>
+<br>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/armul">Buy Prog Rack - Guitar Tone for Ableton Live (Full)</a>
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/ghkcb">Buy The Grid Intro - Tigran Hamasyan (Guitar)</a>
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/tappinglick">Buy Matteo Mancuso Lick #2</a>
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://raultizze.gumroad.com/l/hobts">Buy CHILL Music Pack "Moods"</a>
+<p align="center">
+
 ``
 
 
