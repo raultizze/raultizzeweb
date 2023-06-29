@@ -4,7 +4,7 @@ title: Guitar
 id: Guitar
 permalink: /Guitar
 ---
-
+Guitar Tones, Tabs and transcriptions
 <style>
   body {
     background-color: black;
