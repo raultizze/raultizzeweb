@@ -33,16 +33,9 @@ permalink: /
 
 <h1>Aquí van tus enlaces:</h1>
 
-<a href="#">[Guitar]</a>
-<a href="#">[Projects]</a>
-<a href="#">[Work With Me]</a>
-<a href="#">[About]</a>
-<a href="#">[Research]</a>
-<a href="#">[Contact]</a>
-
- 
- 
-
-
-
-
+<a href="#">[[Guitar]]</a>
+<a href="#">[[Projects]]</a>
+<a href="#">[[Work With Me]]</a>
+<a href="#">[[About]]</a>
+<a href="#">[[Research]]</a>
+<a href="#">[[Contact]]</a>
