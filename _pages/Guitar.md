@@ -15,11 +15,15 @@ permalink: /Guitar
     background-color: black;
     padding: 10px;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 
   .gumroad-button {
     font-size: 16px;
     padding: 8px 16px;
+    margin: 4px;
   }
 
   .price {
@@ -35,46 +39,42 @@ permalink: /Guitar
 <div class="button-container">
   <h2 align="center">Transcriptions and Scores</h2>
   
-  <p class="price">$1+</p>
-  <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Tim">Get Ableton Audio Rack: Tim Henson Single Coil Clean</a>
-  </p>
+  <div>
+    <p class="price">$1+</p>
+    <p>
+      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Tim">Get Ableton Audio Rack: Tim Henson Single Coil Clean</a>
+    </p>
+  </div>
 
-  <p class="price">$1</p>
-  <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/dlkhc">Get Ableton Audio Rack: Tim Henson Single Coil Clean</a>
-  </p>
+  <div>
+    <p class="price">$1</p>
+    <p>
+      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/dlkhc">Get Ableton Audio Rack: Tim Henson Single Coil Clean</a>
+    </p>
+  </div>
 
-  <p class="price">$29</p>
-  <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/hobts">Get CHILL Music Pack "Moods"</a>
-  </p>
-
-  <p class="price">$0+</p>
-  <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/htpka">Get Clean Tone Design Video Project</a>
-  </p>
-
-  <p class="price">$10</p>
-  <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/FriedmanTone">Get Friedman Tone Kit Ableton Rack</a>
-  </p>
-
-  <p class="price">$0+</p>
-  <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/IRCAB">Get IR Vibrato Champlifier</a>
-  </p>
-
+  <div>
+    <p class="price">$0+</p>
+    <p>
+      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/htpka">Get Clean Tone Design Video Project</a>
+    </p>
+  </div>
+  
   <h2 align="center">Licks</h2>
   
-  <p class="price">$0+</p>
-  <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/wkxvg">Get Matteo Mancuso Lick #1</a>
-  </p>
+  <div>
+    <p class="price">$0+</p>
+    <p>
+      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/wkxvg">Get Matteo Mancuso Lick #1</a>
+    </p>
+  </div>
 
-  <p class="price">$0+</p>
-  <p>
-    <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tappinglick">Get Matteo Mancuso Lick #2</a>
-  </p>
+  <div>
+    <p class="price">$0+</p>
+    <p>
+      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tappinglick">Get Matteo Mancuso Lick #2</a>
+    </p>
+  </div>
 </div>
+
 
