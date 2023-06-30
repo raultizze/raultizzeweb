@@ -19,9 +19,15 @@ body {
   justify-content: center;
 }
 .flex-item {
-  flex: 0 0 33.33%;
-  max-width: 33.33%;
+  flex: 0 0 50%;
+  max-width: 50%;
   margin: 10px;
+}
+@media (min-width: 768px) {
+  .flex-item {
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+  }
 }
 </style>
 </head>
@@ -63,56 +69,67 @@ body {
     <div class="flex-item">
       <h4>Tim Henson Vocoder Ableton Rack</h4>
       <h4>$0</h4>
+      <img src="/assets/default-image.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/etwdv">Get it on</a>
     </div>
 
     <div class="flex-item">
       <h4>Clean Tone Design Video Project</h4>
       <h4>$5</h4>
+      <img src="/assets/default-image.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/htpka">Get it on</a>
     </div>
 
     <div class="flex-item">
       <h4>IR Vibrato Champlifier</h4>
       <h4>$0</h4>
+      <img src="/assets/default-image.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/IRCAB">Get it on</a>
     </div>
 
     <div class="flex-item">
       <h4>Friedman Tone Kit Ableton Rack</h4>
       <h4>$3</h4>
+      <img src="/assets/default-image.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/FriedmanTone">Get it on</a>
     </div>
 
     <div class="flex-item">
       <h4>Prog Rack - Acoustic Amp</h4>
       <h4>$0</h4>
+      <img src="/assets/default-image.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/xwjtg">Get it on</a>
     </div>
     
     <div class="flex-item">
       <h4>Ableton Audio Rack: Tim Henson Single Coil Clean</h4>
       <h4>$0</h4>
+      <img src="/assets/default-image.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Tim">Get it on</a>
     </div>
-
- <h1>Licks / Transcriptions</h1>
-
+  </div>
+  
+  <h1>Licks / Transcriptions</h1>
+  
+  <div class="flex-container">
     <div class="flex-item">
       <h4>The Grid Intro - Tigran Hamasyan (Guitar)</h4>
       <h4>$0</h4>
+      <img src="/assets/default-image.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/ghkcb">Get it on</a>
     </div>
 
     <div class="flex-item">
       <h4>Matteo Mancuso Lick #2</h4>
       <h4>$0</h4>
+      <img src="/assets/default-image.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tappinglick">Get it on</a>
     </div>
 
     <div class="flex-item">
       <h4>Matteo Mancuso Lick #1</h4>
       <h4>$0</h4>
+      <img src="/assets/default-image.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/wkxvg">Get it on</a>
     </div>
   </div>
