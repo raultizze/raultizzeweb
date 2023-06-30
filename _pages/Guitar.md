@@ -27,7 +27,7 @@ body {
 </head>
 <body>
 <center>
-  <h1>A collection of great sounding guitar tones custom made for Ableton Live</h1>
+  <h1>A collection of custom great sounding guitar tones made for Ableton Live</h1>
 
   <script src="https://gumroad.com/js/gumroad.js"></script>
 
@@ -62,7 +62,7 @@ body {
 
     <div class="flex-item">
       <h4>Tim Henson Vocoder Ableton Rack</h4>
-      <h4>$12</h4>
+      <h4>$0</h4>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/etwdv">Get it on</a>
     </div>
 
@@ -89,11 +89,11 @@ body {
       <h4>$0</h4>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/xwjtg">Get it on</a>
     </div>
-
+    
     <div class="flex-item">
-      <h4>Prog Rack - Guitar Tone for Ableton Live (Full)</h4>
-      <h4>$8</h4>
-      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/armul">Get it on</a>
+      <h4>Ableton Audio Rack: Tim Henson Single Coil Clean</h4>
+      <h4>$0</h4>
+      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Tim">Get it on</a>
     </div>
 
     <div class="flex-item">
@@ -106,12 +106,6 @@ body {
       <h4>Matteo Mancuso Lick #2</h4>
       <h4>$0</h4>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tappinglick">Get it on</a>
-    </div>
-
-    <div class="flex-item">
-      <h4>Ableton Audio Rack: Tim Henson Single Coil Clean</h4>
-      <h4>$0</h4>
-      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Tim">Get it on</a>
     </div>
 
     <div class="flex-item">
