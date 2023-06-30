@@ -42,7 +42,7 @@ body {
     <div class="flex-item">
       <h4>MES4 DSP Ableton Rack</h4>
       <h4>$14</h4>
-      <img src="/assets/mb1.png"/>
+      <img src="/assets/mb 1.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/mesaboogie">Get it on</a>
     </div>
 
