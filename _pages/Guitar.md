@@ -25,6 +25,13 @@ permalink: /Guitar
     font-size: 16px;
     padding: 8px 16px;
     margin: 4px;
+    color: white; /* Color de enlaces */
+    text-decoration: none; /* Sin subrayado */
+    transition: background-color 0.3s ease; /* Transición suave de color de fondo */
+  }
+
+  .gumroad-button:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Cambio de color de fondo al pasar el cursor */
   }
 
   .price {
