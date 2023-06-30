@@ -29,6 +29,15 @@ body {
     max-width: 33.33%;
   }
 }
+.gumroad-button {
+  display: inline-block;
+  background-color: #1ea7fd;
+  color: white;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+}
 </style>
 </head>
 <body>
@@ -136,6 +145,7 @@ body {
 </center>
 </body>
 </html>
+
 
 
   
