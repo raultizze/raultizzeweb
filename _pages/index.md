@@ -5,5 +5,7 @@ id: home
 permalink: /
 ---
 
- [[Projects]]  [[Work With Me]]  [[About]]  [[Research]]   [[Guitar]]  [[Contact]]
+ <center>
+  [[Projects]] [[Work With Me]]  [[About]]  [[Research]]   [[Guitar]]  [[Contact]]
+  </center>
   
