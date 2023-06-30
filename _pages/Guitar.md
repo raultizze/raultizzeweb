@@ -42,19 +42,21 @@ body {
     <div class="flex-item">
       <h4>MES4 DSP Ableton Rack</h4>
       <h4>$14</h4>
-      <img src="/assets/mb 1.png"/>
+      <img src="/assets/mb2.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/mesaboogie">Get it on</a>
     </div>
 
     <div class="flex-item">
       <h4>Tone Sculptor Tool Kit</h4>
       <h4>$9</h4>
+      <img src="/assets/ts.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/tonesculptor">Get it on</a>
     </div>
 
     <div class="flex-item">
       <h4>Longsword Distortion Rack</h4>
       <h4>$15</h4>
+      <img src="/assets/lsr.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Longrack">Get it on</a>
     </div>
 
