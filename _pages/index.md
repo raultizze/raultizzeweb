@@ -9,8 +9,7 @@ permalink: /
   </center></body> </html>
 
 
-<center>
-![[ins.png]] (https://www.instagram.com/tizzeraul/) |
-[![Logo de YouTube](https://www.ejemplo.com/logo-youtube.png)](https://www.youtube.com/@raultizze/videos) |
-[![Logo de Twitter](https://www.ejemplo.com/logo-twitter.png)](https://twitter.com/RTizze)
-</center>
+
+
+
+
