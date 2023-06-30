@@ -6,11 +6,11 @@ permalink: /Guitar
 ---
 
 
-<center> <h1>A collection of great modern sounding guitar tones custom made for Ableton Live</h1></center>
+<html> <head> <style> body { background-color: black; color: white; } </style> </head> <body> <center>
+  <h1>A collection of great modern sounding guitar tones custom made for Ableton Live</h1>
 
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://raultizze.gumroad.com/l/armul">Get on</a>
 
-
-
-
-
-## Gutar Licks and Transcriptions:
+  </center></body> </html>
+  
