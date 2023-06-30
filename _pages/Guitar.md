@@ -27,7 +27,7 @@ body {
 </head>
 <body>
 <center>
-  <h1>A collection of custom great sounding guitar tones made for Ableton Live</h1>
+  <h1>A collection of custom guitar tones made for Ableton Live</h1>
 
   <script src="https://gumroad.com/js/gumroad.js"></script>
 
@@ -95,6 +95,8 @@ body {
       <h4>$0</h4>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Tim">Get it on</a>
     </div>
+
+ <h1>Licks / Transcriptions</h1>
 
     <div class="flex-item">
       <h4>The Grid Intro - Tigran Hamasyan (Guitar)</h4>
