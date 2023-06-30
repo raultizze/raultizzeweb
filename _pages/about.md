@@ -10,7 +10,13 @@ permalink: /About
 
 
 
- Raul Tizze is a composer and music producer with three solo albums. emotional charge, and eclectic style. He works with interdisciplinary projects related to films, video games, and art installations.
+I'm Raul Tizze, a composer and music producer who delves into the realm of profound and introspective sounds. Throughout my journey, I've released three solo albums, constantly driven by a passion for creating sonic landscapes that resonate with deep emotions and introspection.
+
+What truly inspires me are interdisciplinary projects that push the boundaries of creativity, particularly within the realms of films, video games, and art installations. I find great joy in exploring the intricate connections between different artistic mediums, from composition and arrangement to sound design and mixing.
+
+My artistic process is fueled by a genuine desire to evoke emotional responses through music. Drawing from a diverse range of genres and influences, I weave together captivating melodies and textured soundscapes that speak to the depths of the human experience.
+
+Collaboration is at the heart of everything I do. By working closely with filmmakers, game developers, and visual artists, I aim to bring their visions to life through a carefully crafted sonic tapestry. Whether it's crafting an evocative score for a cinematic scene, composing atmospheric music for an immersive video game, or designing striking sounds for an avant-garde art installation, my goal is always to deliver high-quality results that surpass expectations.
 
 - Recognition "Composer and Guitarist" 2018 "Arco de Córdoba"
 - Nominated best instrumental album with "Branas" 2019 (Graffitis Music Awards)
