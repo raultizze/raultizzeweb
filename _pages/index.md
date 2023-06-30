@@ -5,10 +5,12 @@ id: home
 permalink: /
 ---
 
-![[Sin título.png]]
+
 
 
  <html> <head> <style> body { background-color: black; color: white; } </style> </head> <body> <center>
+ ![[ban.png]]
+ 
   [[Projects]] [[Work With Me]]  [[About]]  [[Research]]   [[Guitar]]  [[Contact]]
   </center></body> </html>
 
