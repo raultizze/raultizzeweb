@@ -10,7 +10,7 @@ permalink: /
 
  <html> <head> <style> body { background-color: black; color: white; } </style> </head> <body> <center>
 <img src="/assets/ban3.png"/>
-  [[Projects]] [[Work With Me]]  [[About]]  [[Research]]   [[Guitar]]  [[Contact]]
+   [[Guitar]]  [[Work With Me]] [[About]]  [[Research]] 
   </center></body> </html>
 
 
