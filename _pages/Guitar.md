@@ -56,7 +56,7 @@ body {
     <div class="flex-item">
       <h4>Longsword Distortion Rack</h4>
       <h4>$15</h4>
-      <img src="/assets/lsr.png"/>
+      <img src="/assets/lsr1.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Longrack">Get it on</a>
     </div>
 
