@@ -81,18 +81,6 @@ body {
     </div>
 
     <div class="flex-item">
-      <h4>Sci-Fi Music Game Pack</h4>
-      <h4>$0</h4>
-      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/gbsry">Get it on</a>
-    </div>
-
-    <div class="flex-item">
-      <h4>Trilogy Game Library</h4>
-      <h4>$0</h4>
-      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/musicgamelibrary">Get it on</a>
-    </div>
-
-    <div class="flex-item">
       <h4>Prog Rack - Acoustic Amp</h4>
       <h4>$0</h4>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/xwjtg">Get it on</a>
@@ -117,21 +105,9 @@ body {
     </div>
 
     <div class="flex-item">
-      <h4>CHILL Music Pack "Moods"</h4>
-      <h4>$0</h4>
-      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/hobts">Get it on</a>
-    </div>
-
-    <div class="flex-item">
       <h4>Ableton Audio Rack: Tim Henson Single Coil Clean</h4>
       <h4>$0</h4>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Tim">Get it on</a>
-    </div>
-
-    <div class="flex-item">
-      <h4>Ableton Audio Rack: Tim Henson Single Coil Clean</h4>
-      <h4>$0</h4>
-      <a class="gumroad-button" href="https://raultizze.gumroad.com/l/dlkhc">Get it on</a>
     </div>
 
     <div class="flex-item">
