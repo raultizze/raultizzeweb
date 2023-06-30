@@ -35,6 +35,7 @@ body {
     <div class="flex-item">
       <h4>Prog Rack: Modern High Gain, Clean and Acoustic</h4>
       <h4>$10</h4>
+      <img src="/assets/pr.png"/>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/armul">Get it on</a>
     </div>
 
@@ -52,7 +53,7 @@ body {
 
     <div class="flex-item">
       <h4>Longsword Distortion Rack</h4>
-      <h4>$27</h4>
+      <h4>$15</h4>
       <a class="gumroad-button" href="https://raultizze.gumroad.com/l/Longrack">Get it on</a>
     </div>
 
